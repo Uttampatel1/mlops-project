@@ -1,3 +1,6 @@
+
+![Untitled design](https://github.com/user-attachments/assets/8dd5953e-1121-4859-8567-28a2a97ffa8b)
+
 # ML Ops End-to-End Workflow
 
 This repository demonstrates an **end-to-end Machine Learning Operations (ML Ops) pipeline** designed for building, deploying, and monitoring machine learning models. ML Ops integrates machine learning with DevOps principles to streamline the development, deployment, and management of ML systems in production environments.
